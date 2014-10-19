@@ -1,3 +1,5 @@
 # Ignore backup files
 *.skb
+*~.skp
 
+AutoSave_floorplan_normals.skp
